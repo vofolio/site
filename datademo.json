@@ -9,7 +9,7 @@
    "name": "Google",
    "children": [
     {
-     "name": "cluster",
+     "name": "Google Display",
      "children": [
       {"name": "AgglomerativeCluster", "value": 50},
       {"name": "CommunityStructure", "value": 20},
@@ -18,19 +18,13 @@
      ]
     },
     {
-     "name": "graph",
+     "name": "Google Search",
      "children": [
       {"name": "BetweennessCentrality", "value": 45},
       {"name": "LinkDistance", "value": 1},
       {"name": "MaxFlowMinCut", "value": 2},
       {"name": "ShortestPaths", "value": 34},
       {"name": "SpanningTree", "value": 4}
-     ]
-    },
-    {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "value": 34}
      ]
     }
    ]
