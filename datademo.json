@@ -11,20 +11,18 @@
     {
      "name": "Google Display",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 50},
-      {"name": "CommunityStructure", "value": 20},
-      {"name": "HierarchicalCluster", "value": 12},
-      {"name": "MergeEdge", "value": 43}
+      {"name": "Call", "value": 50},
+      {"name": "Form submit", "value": 20},
+      {"name": "Key Page View", "value": 12},
+      {"name": "Second Page View", "value": 43}
+      {"name": "Interactions", "value": 43}
      ]
     },
     {
      "name": "Google Search",
      "children": [
-      {"name": "BetweennessCentrality", "value": 45},
-      {"name": "LinkDistance", "value": 1},
-      {"name": "MaxFlowMinCut", "value": 2},
-      {"name": "ShortestPaths", "value": 34},
-      {"name": "SpanningTree", "value": 4}
+      {"name": "Map", "value": 45},
+      {"name": "Store Visit", "value": 1},
      ]
     }
    ]
