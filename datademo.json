@@ -2,7 +2,8 @@
  "name": "flare",
  "children": [
   {
-   "name": "Bing"
+   "name": "Bing",
+   "value": 103
   },
   {
    "name": "Google",
@@ -10,35 +11,37 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "AgglomerativeCluster", "value": 50},
+      {"name": "CommunityStructure", "value": 20},
+      {"name": "HierarchicalCluster", "value": 12},
+      {"name": "MergeEdge", "value": 43}
      ]
     },
     {
      "name": "graph",
      "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
+      {"name": "BetweennessCentrality", "value": 45},
+      {"name": "LinkDistance", "value": 1},
+      {"name": "MaxFlowMinCut", "value": 2},
+      {"name": "ShortestPaths", "value": 34},
+      {"name": "SpanningTree", "value": 4}
      ]
     },
     {
      "name": "optimization",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name": "AspectRatioBanker", "value": 34}
      ]
     }
    ]
   },
   {
-   "name": "Facebook"
+   "name": "Facebook",
+   "value" : 345
   },
   {
-   "name": "Youtube"
+   "name": "Youtube",
+   "value": 345
   }
  ]
 }
