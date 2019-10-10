@@ -18,6 +18,22 @@
         {
           "name": "form submit",
           "value": "100"
+        },
+        {
+          "name": "Key Page View",
+          "value": "34"
+        },
+        {
+          "name": "Second Page View",
+          "value": "20"
+        },
+        {
+          "name": "Interaction",
+          "value": "100"
+        },
+        {
+          "name": "Store Visit",
+          "value": "67"
         }
       ]
     },
