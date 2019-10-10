@@ -22,7 +22,7 @@
      "name": "Google Search",
      "children": [
       {"name": "Map", "value": 45},
-      {"name": "Store Visit", "value": 1},
+      {"name": "Store Visit", "value": 1}
      ]
     }
    ]
